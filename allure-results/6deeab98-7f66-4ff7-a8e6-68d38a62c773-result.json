@@ -1,0 +1,53 @@
+{
+    "name": "checkTabsTest2",
+    "start": 1674065622866,
+    "stop": 1674065628303,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "6deeab98-7f66-4ff7-a8e6-68d38a62c773",
+    "historyId": "43bab4b87a1ec49cd06a741aa43ff43a",
+    "fullName": "ru.kkuzmichev.simpleappforespresso.CheckTabsTest2.checkTabsTest2",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.kkuzmichev.simpleappforespresso"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.kkuzmichev.simpleappforespresso.CheckTabsTest2"
+        },
+        {
+            "name": "testMethod",
+            "value": "checkTabsTest2"
+        },
+        {
+            "name": "suite",
+            "value": "ru.kkuzmichev.simpleappforespresso.CheckTabsTest2"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(650)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
